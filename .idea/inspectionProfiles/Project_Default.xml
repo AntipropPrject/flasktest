@@ -1,0 +1,13 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="states.admin_states.admin.putin_game_lobby" />
+          <option value="states.admin_states.admin.nazi_game_del_apply" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
